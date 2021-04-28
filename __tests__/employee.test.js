@@ -1,5 +1,5 @@
 // using Employee constructor 
-const Employee = require('../lib/Employee');
+const Employee = require('../lib/employee');
 
 // creates employee object 
 test('creates an employee object', () => {
